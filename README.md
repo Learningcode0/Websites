@@ -114,7 +114,7 @@
     <P>For More HTML, CSS, and coding tutorial - please click on the link below to 
         Subscribe to my channel</P>
         <p class="end">CopyRight By Ahmari Ferreira
-            <a href="https://www.youtube.com/channel/UCgRWHT8ycXEUJbWam0hILtA"></a>
+            <a id="tribute-link"href="https://www.youtube.com/channel/UCgRWHT8ycXEUJbWam0hILtA">Youtube</a>
         </p>
   </footer>
 </body>
