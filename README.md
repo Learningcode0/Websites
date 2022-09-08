@@ -1,3 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-
+    awesome/6.2.0/css/all.min.css">
+    <title>My Portfolio !</title>
+</head>
+<body>
+    
+<!----Start of Portfoilio---->
+   
+    <div class="hero">
+        <nav>
+            <span>
+            <h2 class="logo">Portfo<span>lio</span></h2>
+            </span>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Skills</a></li>
+                <li><a href="#">More</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+            <a href="#" class="btn">Subscribe</a>
+            </div>
+        </nav>  
+    <div class="content">
+            <h4>Hello, My name is</h4>
+            <h1>Ahmari <span>Ferreira</span></h1>
+            <h3>I'am a Front-End Web Dev.</h3>
+            <div class="newslatter">
+                <form>
+                    <input type="email" name="email" id="mail" placeholder="Enter Your email">
+                    <input type="submit" name="submit" id="mail" Value="lets start">
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <!----About Section Start---->
+    <section class="about">
+        <div class="main">
+        <img src="img/images.lpg.jpg" alt="">
+        <div class="about-text">
+        <h2>About Me</h2>
+        <h5>FrontEndDev & <span>Desginer</span></h5>
+        <p>I am a Front-End Developer. I can provide you good Working websites for you.
+            I can Build Tribute pages, application's, landing pages etc.......
+            I also make websites more responsive or any kind of way the consumer like it. 
+            I'am also learning Javascript.</p>
+           <Button type="button">Let's Talk</Button>
+            </div>
+        </div> 
+     </section>
+     
+     
+     <!------service section start------>
+<div class="service">
+    <div class="title">
+        <h2>Our Service</h2>
+    </div>
+    
+    <div class="box">
+        <div class="card">
+            <h5><em>Web Development</em></h5>
+            <div class="pra">
+                <p><em>Every website should be Build with teo primary goals:
+                site needs to be working across all devices, vest fast responsive site.</em></p>
+
+                <p style="text-align: center;">
+                    <a class="button" href="#">Read More</a>
+                </p>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h5>Web Development</h5>
+            <div class="pra">
+                <p><em>Every website should be Build with teo primary goals:
+                site needs to be working across all devices, vest fast responsive site.</em></p>
+
+                <p style="text-align: center;">
+                    <a class="button" href="#">Read More</a>
+                </p>
+            </div>
+        </div>
+        <div class="card">
+            <h5>Web Development</h5>
+            <div class="pra">
+                <p>Every website should be Build with teo primary goals:
+                site needs to be working across all devices, vest fast responsive site.</p>
+
+                <p style="text-align: center;">
+                    <a class="button" href="#">Read More</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+  <!------Contact Me------>
+  <div class="contact-Me">
+    <p>Let me Build You a Fast responsive website.</p>
+    <a class="button-two" href="#">Hire Me</a>
+  </div>
+
+  <!---Footer Start--->
+  <footer>
+    <p>Ahmari Ferreira</p>
+    <P>For More HTML, CSS, and coding tutorial - please click on the link below to 
+        Subscribe to my channel</P>
+        <p class="end">CopyRight By Ahmari Ferreira
+            <a href="https://www.youtube.com/channel/UCgRWHT8ycXEUJbWam0hILtA"></a>
+        </p>
+  </footer>
+</body>
+</html
+
+
+
+
 *{
 margin: 0px;
 padding: 0%;
