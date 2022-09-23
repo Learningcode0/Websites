@@ -69,7 +69,7 @@
             <h5><em>Web Development</em></h5>
             <div class="pra">
                 <p><em>Every website should be Build with teo primary goals:
-                site needs to be working across all devices, vest fast responsive site.</em></p>
+                site needs to be working across all devices, very fast responsive site.</em></p>
 
                 <p style="text-align: center;">
                     <a class="button" href="#">Read More</a>
@@ -81,7 +81,7 @@
             <h5>Web Development</h5>
             <div class="pra">
                 <p><em>Every website should be Build with teo primary goals:
-                site needs to be working across all devices, vest fast responsive site.</em></p>
+                site needs to be working across all devices, very fast responsive site.</em></p>
 
                 <p style="text-align: center;">
                     <a class="button" href="#">Read More</a>
@@ -92,7 +92,7 @@
             <h5>Web Development</h5>
             <div class="pra">
                 <p>Every website should be Build with teo primary goals:
-                site needs to be working across all devices, vest fast responsive site.</p>
+                site needs to be working across all devices, very fast responsive site.</p>
 
                 <p style="text-align: center;">
                     <a class="button" href="#">Read More</a>
